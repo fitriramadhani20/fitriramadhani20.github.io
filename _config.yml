@@ -1,10 +1,6 @@
 url: "https://fitriramadhani20.github.io"
 
-github_Username: fitriramadhani
-
 plugins:
-"jekyll-sitemap"
-"jekyll-feed"
-"jekyll-seo-tag"
-
-
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-seo-tag

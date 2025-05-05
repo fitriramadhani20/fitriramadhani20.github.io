@@ -1,3 +1,3 @@
-function myFunction() :void{ Show usages
+function myFunction() { 
     alert("kan sudah bilang jangan di klik!");
 }
