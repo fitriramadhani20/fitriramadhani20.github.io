@@ -210,3 +210,4 @@ gem install bundler
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat menginstal Ruby, Jekyll, dan mengembangkan situs atau blog statis menggunakan Jekyll dengan mudah
 
+ <img src="/assets/images/jekyll.png" alt="jekyll.png">

@@ -1,6 +1,9 @@
-url: "https://fitriramadhani20.github.io"
+title: Home
+baseurl: ""
+url: "https://fitriramadhani20.github.io/"
 
-plugins:
-    - jekyll-feed
-    - jekyll-sitemap
-    - jekyll-seo-tag
+sass:
+  sass_dir: _sass
+  style: compressed
+
+theme: null
