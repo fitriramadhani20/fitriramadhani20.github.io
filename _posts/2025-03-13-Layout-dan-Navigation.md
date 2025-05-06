@@ -208,4 +208,5 @@ Dalam pengembangan web, *layout* dan *navigation* adalah dua elemen penting yang
 
 Untuk membuat situs yang efektif, baik layout maupun navigasi harus saling mendukung dan bekerja sama untuk menyediakan pengalaman pengguna yang mudah dan menyenangkan.
 
- <img src="/assets/images/layout png.png" alt="layout png.png ">
+ <img src="/assets/images/layout png.png
+ " alt="layout png.png ">
