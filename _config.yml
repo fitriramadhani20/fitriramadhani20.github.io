@@ -1,5 +1,9 @@
-title: Home
-baseurl: ""
+title: Fitri Ramadhani
+email: fitri_ramadhani073@student.pnl.ac.id
+description: > # this means to ignore newlines until "baseurl:"
+  A personal blog by Fitri Ramadhani, a student of Politeknik Negeri Lhokseumawe.
+  This blog is built using Jekyll and hosted on Github pages.
+  The Contect is primarily in Indonesia, but some posts may be in Inglish
 url: "https://fitriramadhani20.github.io"
 
 sass:

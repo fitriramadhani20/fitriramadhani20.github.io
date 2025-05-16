@@ -26,7 +26,7 @@ titte : friends
     <li class="bubble-effect"><a href="https://ridhoryanghifari.github.io/">Ridho Ryan Ghifari</a></li>
     <li class="bubble-effect"><a href="https://riskialfatah.github.io/">Rizki Al Fatah</a></li>
     <li class="bubble-effect"><a href="salwaiska027.github.io">Salwa</a></li>
-    <li class="bubble-effect"><a href="https://sitiazzahraa.github.io/">Siti Azzahra</a></li>
+    <li class="bubble-effect"><a href="https://sitiazzahraaa.github.io/">Siti Azzahra</a></li>
     <li class="bubble-effect"><a href="https://sitihajar01.github.io/">Siti Hajar</a></li>
     <li class="bubble-effect"><a href="https://athayaaulfa18.github.io/">Sitha Athaya Aufa</a></li>
     <li class="bubble-effect"><a href="https://taniaanandasari.github.io/">Tania Ananda Sari</a></li>
